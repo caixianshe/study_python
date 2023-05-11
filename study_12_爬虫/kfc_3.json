@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 213
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 21,
+      "storeName": "慈溪香格(早餐7:00）",
+      "addressDetail": "新城大道北路２７７－２８５号（华润万家超旁）",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 22,
+      "storeName": "鄞州乐购 (24小时营业)",
+      "addressDetail": "海曙区雅戈尔大道洛兹广场一楼肯德基",
+      "pro": "24小时,Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 23,
+      "storeName": "宁波江北万达(10：00-22：00APP更优惠）",
+      "addressDetail": "江北大道188号江北万达广场一楼29号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 24,
+      "storeName": "宁波联盛",
+      "addressDetail": "鄞州宁南北路1288号联盛广场A座",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 25,
+      "storeName": "宁波桑德兹",
+      "addressDetail": "天童南路与日丽中路交叉处南部商务区桑德兹大厦一楼",
+      "pro": "礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 26,
+      "storeName": "江北世纪联华",
+      "addressDetail": "江北区康庄南路72号",
+      "pro": "店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 27,
+      "storeName": "宁波世纪东方",
+      "addressDetail": "中山东路1083号世纪东方广场一楼",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 28,
+      "storeName": "宁波洪塘海德（早餐7点供应）",
+      "addressDetail": "洪塘街道洪塘中路258号银亿海德商业中心一楼",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 29,
+      "storeName": "骆驼欧尚",
+      "addressDetail": "骆驼街道东邑北路558号-1076号商铺",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 30,
+      "storeName": "象山大润发",
+      "addressDetail": "象山县丹南路570号大润发超一楼肯德基餐厅",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    }
+  ]
+}

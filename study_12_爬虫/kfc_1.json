@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 213
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 1,
+      "storeName": "慈溪中心（早餐7:00）",
+      "addressDetail": "上林坊解放中街266-276号    0574-63810933",
+      "pro": "点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 2,
+      "storeName": "周巷兴业",
+      "addressDetail": "周巷镇兴业南路1号",
+      "pro": "点唱机,店内参观,礼品卡,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 3,
+      "storeName": "象山天安",
+      "addressDetail": "天安路与建设路交叉口",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 4,
+      "storeName": "欧尚沧海",
+      "addressDetail": "百丈东路1188号",
+      "pro": "Wi-Fi,点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 5,
+      "storeName": "慈溪虞波(人民医院对面）",
+      "addressDetail": "浒山街道新城大道271-279号人民医院对面",
+      "pro": "24小时,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 6,
+      "storeName": "宁波万达",
+      "addressDetail": "鄞州四明中路999号万达广场2号门",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 7,
+      "storeName": "泗门慈客隆",
+      "addressDetail": "泗门镇镇北路109号",
+      "pro": "24小时,店内参观,礼品卡,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 8,
+      "storeName": "石浦金山",
+      "addressDetail": "象山县石浦镇金山路102号",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 9,
+      "storeName": "北仑长江",
+      "addressDetail": "明州路725-729号",
+      "pro": "点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 10,
+      "storeName": "观海卫海卫",
+      "addressDetail": "观海卫镇观海卫路243号贞观商厦一楼",
+      "pro": "Wi-Fi,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    }
+  ]
+}

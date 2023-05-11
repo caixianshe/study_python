@@ -1,0 +1,89 @@
+{
+  "Table": [
+    {
+      "rowcount": 213
+    }
+  ],
+  "Table1": [
+    {
+      "rownum": 11,
+      "storeName": "宁海金昌",
+      "addressDetail": "中山中路69-73号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 12,
+      "storeName": "逍林樟新",
+      "addressDetail": "逍林镇樟新南路919号北侧",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 13,
+      "storeName": "奉化太平洋",
+      "addressDetail": "南山路174号",
+      "pro": "点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 14,
+      "storeName": "慈溪大润发",
+      "addressDetail": "慈溪大润发肯德基24小时63032260",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 15,
+      "storeName": "奉化大润发",
+      "addressDetail": "南山路8号龙津尚都",
+      "pro": "点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 16,
+      "storeName": "北仑君临",
+      "addressDetail": "黄山路857号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 17,
+      "storeName": "宁波中兴",
+      "addressDetail": "中兴路138号世纪联华超左侧",
+      "pro": "点唱机,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 18,
+      "storeName": "余姚四明",
+      "addressDetail": "四明西路486-490号",
+      "pro": "24小时,Wi-Fi,点唱机,店内参观,礼品卡,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 19,
+      "storeName": "宁波泰富",
+      "addressDetail": "桑田路291号-299号",
+      "pro": "Wi-Fi,店内参观,礼品卡,手机点餐",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    },
+    {
+      "rownum": 20,
+      "storeName": "宁波百丈",
+      "addressDetail": "百丈东路86-2号",
+      "pro": "Wi-Fi,点唱机,店内参观,礼品卡",
+      "provinceName": "浙江省",
+      "cityName": "宁波市"
+    }
+  ]
+}
