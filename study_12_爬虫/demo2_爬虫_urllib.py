@@ -1,3 +1,4 @@
+# https://www.bilibili.com/video/BV1Db4y1m7Ho?p=70&vd_source=8ad96aba75f23d4a5862ddb7d26aedcb 学习爬虫的连接 尚硅谷的
 #  urllib的四个方法
 import urllib.request
 
